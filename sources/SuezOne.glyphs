@@ -1,7 +1,8 @@
 {
 .appVersion = "1141";
 DisplayStrings = (
-"/vavvav-hb"
+"/vavvav-hb",
+"/yodyod-hb"
 );
 classes = (
 {
@@ -76,8 +77,7 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 name = ordn;
 },
 {
-automatic = 1;
-code = "sub f i by fi;\012sub f l by fl;\012";
+code = "sub f i by fi;\012sub f l by fl;\012sub yodyod-hb patah-hb by yodyodpatah-hb;";
 name = liga;
 },
 {
@@ -13961,7 +13961,7 @@ unicode = 05F1;
 },
 {
 glyphname = "yodyod-hb";
-lastChange = "2018-07-28 15:10:03 +0000";
+lastChange = "2018-07-28 17:12:45 +0000";
 layers = (
 {
 anchors = (
@@ -34140,5 +34140,5 @@ manufacturer = Hagilda;
 manufacturerURL = "http://hagilda.com";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
