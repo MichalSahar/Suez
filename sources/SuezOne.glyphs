@@ -1,5 +1,8 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+"/vavvav-hb"
+);
 classes = (
 {
 code = "";
@@ -13934,277 +13937,49 @@ unicode = 05F0;
 },
 {
 glyphname = "vavyod-hb";
-lastChange = "2018-07-26 04:40:44 +0000";
+lastChange = "2018-07-28 15:09:37 +0000";
 layers = (
 {
-anchors = (
+components = (
 {
-name = bottom;
-position = "{139, -4}";
+alignment = -1;
+name = "yod-hb";
 },
 {
-name = bottomleft;
-position = "{-2, -4}";
-},
-{
-name = center;
-position = "{-2, 309}";
-},
-{
-name = top;
-position = "{137, 553}";
-},
-{
-name = topleft;
-position = "{8, 557}";
-}
-);
-hints = (
-{
-horizontal = 1;
-origin = "{0, 25}";
-target = "{0, 12}";
-type = Stem;
-},
-{
-origin = "{0, 16}";
-target = "{0, 6}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{0, 12}";
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-origin = "{0, 25}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-origin = "{1, 19}";
-target = up;
-type = BottomGhost;
-},
-{
-origin = "{1, 19}";
-target = "{1, 1}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{1, 10}";
-target = down;
-type = TopGhost;
+alignment = -1;
+name = "vav-hb";
+transform = "{1, 0, 0, 1, 296, 0}";
 }
 );
 layerId = "DDABD3A5-4A8B-4D55-9B9E-1269DFBEF3A1";
-paths = (
-{
-closed = 1;
-nodes = (
-"196 194 LINE",
-"212 233 OFFCURVE",
-"235 297 OFFCURVE",
-"246 334 CURVE SMOOTH",
-"256 362 OFFCURVE",
-"262 392 OFFCURVE",
-"262 418 CURVE SMOOTH",
-"262 470 OFFCURVE",
-"239 502 OFFCURVE",
-"172 542 CURVE SMOOTH",
-"148 556 OFFCURVE",
-"123 569 OFFCURVE",
-"97 583 CURVE",
-"75 576 LINE",
-"48 528 OFFCURVE",
-"28 486 OFFCURVE",
-"10 434 CURVE",
-"73 392 LINE SMOOTH",
-"101 374 OFFCURVE",
-"106 367 OFFCURVE",
-"106 355 CURVE SMOOTH",
-"106 345 OFFCURVE",
-"104 334 OFFCURVE",
-"99 318 CURVE SMOOTH",
-"64 180 LINE",
-"92 169 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"470 -13 LINE",
-"559 8 LINE",
-"567 197 OFFCURVE",
-"571 321 OFFCURVE",
-"572 366 CURVE SMOOTH",
-"574 456 OFFCURVE",
-"557 498 OFFCURVE",
-"498 529 CURVE SMOOTH",
-"475 541 OFFCURVE",
-"429 562 OFFCURVE",
-"380 581 CURVE",
-"351 569 LINE",
-"336 531 OFFCURVE",
-"323 480 OFFCURVE",
-"312 417 CURVE",
-"390 380 LINE SMOOTH",
-"432 360 OFFCURVE",
-"431 359 OFFCURVE",
-"431 287 CURVE SMOOTH",
-"431 -13 LINE"
-);
-}
-);
 width = 620;
 }
 );
+leftMetricsKey = "yod-hb";
+rightMetricsKey = "vav-hb";
 unicode = 05F1;
 },
 {
 glyphname = "yodyod-hb";
-lastChange = "2018-07-26 04:09:20 +0000";
+lastChange = "2018-07-28 15:10:03 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{287, 80}";
-},
-{
-name = bottomleft;
-position = "{-2, -4}";
-},
-{
-name = center;
-position = "{-2, 309}";
-},
-{
-name = top;
-position = "{137, 553}";
-},
-{
-name = topleft;
-position = "{8, 557}";
+position = "{300, 69}";
 }
 );
-hints = (
+components = (
 {
-horizontal = 1;
-origin = "{0, 25}";
-target = "{0, 12}";
-type = Stem;
+name = "yod-hb";
+transform = "{1, 0, 0, 1, 304, 0}";
 },
 {
-origin = "{0, 16}";
-target = "{0, 6}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{0, 12}";
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-origin = "{0, 25}";
-target = up;
-type = BottomGhost;
-},
-{
-horizontal = 1;
-origin = "{1, 25}";
-target = "{1, 12}";
-type = Stem;
-},
-{
-origin = "{1, 16}";
-target = "{1, 6}";
-type = Stem;
-},
-{
-horizontal = 1;
-origin = "{1, 12}";
-target = down;
-type = TopGhost;
-},
-{
-horizontal = 1;
-origin = "{1, 25}";
-target = up;
-type = BottomGhost;
+name = "yod-hb";
 }
 );
 layerId = "DDABD3A5-4A8B-4D55-9B9E-1269DFBEF3A1";
-paths = (
-{
-closed = 1;
-nodes = (
-"196 194 LINE",
-"212 233 OFFCURVE",
-"235 297 OFFCURVE",
-"246 334 CURVE SMOOTH",
-"256 362 OFFCURVE",
-"262 392 OFFCURVE",
-"262 418 CURVE SMOOTH",
-"262 470 OFFCURVE",
-"239 502 OFFCURVE",
-"172 542 CURVE SMOOTH",
-"148 556 OFFCURVE",
-"123 569 OFFCURVE",
-"97 583 CURVE",
-"75 576 LINE",
-"48 528 OFFCURVE",
-"28 486 OFFCURVE",
-"10 434 CURVE",
-"73 392 LINE SMOOTH",
-"101 374 OFFCURVE",
-"106 367 OFFCURVE",
-"106 355 CURVE SMOOTH",
-"106 345 OFFCURVE",
-"104 334 OFFCURVE",
-"99 318 CURVE SMOOTH",
-"64 180 LINE",
-"92 169 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"500 194 LINE",
-"516 233 OFFCURVE",
-"539 297 OFFCURVE",
-"550 334 CURVE SMOOTH",
-"560 362 OFFCURVE",
-"566 392 OFFCURVE",
-"566 418 CURVE SMOOTH",
-"566 470 OFFCURVE",
-"543 502 OFFCURVE",
-"476 542 CURVE SMOOTH",
-"452 556 OFFCURVE",
-"427 569 OFFCURVE",
-"401 583 CURVE",
-"379 576 LINE",
-"352 528 OFFCURVE",
-"332 486 OFFCURVE",
-"314 434 CURVE",
-"377 392 LINE SMOOTH",
-"405 374 OFFCURVE",
-"410 367 OFFCURVE",
-"410 355 CURVE SMOOTH",
-"410 345 OFFCURVE",
-"408 334 OFFCURVE",
-"403 318 CURVE SMOOTH",
-"368 180 LINE",
-"396 169 LINE"
-);
-}
-);
 width = 600;
 }
 );
@@ -18667,7 +18442,7 @@ unicode = FB1D;
 },
 {
 glyphname = "yodyodpatah-hb";
-lastChange = "2018-07-26 04:09:55 +0000";
+lastChange = "2018-07-28 15:10:20 +0000";
 layers = (
 {
 components = (
@@ -18676,7 +18451,7 @@ name = "yodyod-hb";
 },
 {
 name = "patah-hb";
-transform = "{1, 0, 0, 1, -13, 80}";
+transform = "{1, 0, 0, 1, 0, 69}";
 }
 );
 layerId = "DDABD3A5-4A8B-4D55-9B9E-1269DFBEF3A1";
